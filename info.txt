@@ -1,0 +1,4 @@
+The repository contains my homework submissions for 
+the CS50 Harvard University Course for the Intermediate
+level students.
+All 
